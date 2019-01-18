@@ -80,10 +80,13 @@ figcaption {
 }
 
 .col-1 {
-  
+  float: left;
+  width: 32%;
+  background: #ccc;
 }
 
 .col-2 {
+  float: left;
   
 }
 
